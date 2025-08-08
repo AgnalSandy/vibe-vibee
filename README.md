@@ -7,4 +7,5 @@ Click the button, analyze your "air", get a random result, and hear a completely
 *Voice:* “Bluetooth toaster connected successfully.”
 
 ## 🌐 Live Demo:
-[Link will be added after hosting on Vercel]
+
+https://airanalyser.vercel.app/
