@@ -47,14 +47,14 @@ Just open index.html in your browser. That’s it. No servers. No backend. No re
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="896" height="480" alt="image" src="https://github.com/user-attachments/assets/28e7df63-a260-46ea-b069-63d4938ac2f0" />Opening interface. Waiting for the input
+<img width="896" height="480" alt="image" src="https://github.com/user-attachments/assets/28e7df63-a260-46ea-b069-63d4938ac2f0" />Opening interface waiting for the input.
 Main screen of the Useless Air Analyzer, patiently waiting for your “breath input” before unleashing completely unscientific results.
 
 <img width="899" height="472" alt="image" src="https://github.com/user-attachments/assets/f4029cc5-4f9c-4560-be22-842a10440869" />After analyzing
-The app bravely informing you that it smells lies, suggesting you try again — highly advanced AI nose technology at work.
+the app bravely informing you that it smells lies, suggesting you try again — highly advanced AI nose technology at work.
 
-<img width="894" height="481" alt="image" src="https://github.com/user-attachments/assets/f5513599-30f1-4cf8-aa2d-2c87fe9ffd28" />After analyzing again
-Give a new review about the air.
+<img width="894" height="481" alt="image" src="https://github.com/user-attachments/assets/f5513599-30f1-4cf8-aa2d-2c87fe9ffd28" />After analyzing again it
+gives a new review about the air.
 
 # Diagrams
 ```mermaid
