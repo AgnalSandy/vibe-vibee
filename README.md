@@ -74,7 +74,7 @@ flowchart TD
     Retry -- No --> End([Close tab and question life choices])
 ```
 This highly advanced workflow outlines the complex scientific process of the Useless Air Analyzer — from detecting your imaginary breath, randomly deciding your fate, delivering a completely unrelated voice message, and finally sending you into an endless loop of confusion and laughter.
-For Hardware:
+
 
 ### Project Demo
 # Video
